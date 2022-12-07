@@ -1,8 +1,8 @@
 # url to scrape
-url = "https://mizanstore.com/kategoriproduk/556_agama_dan_spiritualitas/"
+url = "https://seller.mizanmu.id/home/kategori/agama_&_filsafat/"
 
 # Total product to scrape
 total_product = 504
 
 # Chromedriver path
-chromedriver = r"C:\Users\ashar\Documents\GitHub\Mizanmu\chromedriver.exe"
+chromedriver = r"C:\Users\rifky\Project\Book Scrapping Project\Mizanmu\chromedriver.exe"
